@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Faks\\Master\\Semestar2\\ParalelniAlgoritmi\\ParallelBellmanFord\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA9B490-FEDC-4D60-B105-91EE1951DFAB}|ParallelBellmanFord.vcxproj|D:\\Faks\\Master\\Semestar2\\ParalelniAlgoritmi\\ParallelBellmanFord\\ParallelBellmanFord.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EA9B490-FEDC-4D60-B105-91EE1951DFAB}|ParallelBellmanFord.vcxproj|solutionrelative:ParallelBellmanFord.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ParallelBellmanFord.cpp",
+              "DocumentMoniker": "D:\\Faks\\Master\\Semestar2\\ParalelniAlgoritmi\\ParallelBellmanFord\\ParallelBellmanFord.cpp",
+              "RelativeDocumentMoniker": "ParallelBellmanFord.cpp",
+              "ToolTip": "D:\\Faks\\Master\\Semestar2\\ParalelniAlgoritmi\\ParallelBellmanFord\\ParallelBellmanFord.cpp",
+              "RelativeToolTip": "ParallelBellmanFord.cpp",
+              "ViewState": "AgIAAGgBAAAAAAAAAAAAAG0BAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-11T16:06:43.316Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

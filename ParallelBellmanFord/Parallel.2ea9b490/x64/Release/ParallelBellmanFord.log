@@ -1,0 +1,9 @@
+﻿  ParallelBellmanFord.cpp
+D:\Faks\Master\Semestar2\ParalelniAlgoritmi\ParallelBellmanFord\ParallelBellmanFord.cpp(115,42): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Faks\Master\Semestar2\ParalelniAlgoritmi\ParallelBellmanFord\ParallelBellmanFord.cpp(115,24): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+  Generating code
+  192 of 714 functions (26.9%) were compiled, the rest were copied from previous compilation.
+    129 functions were new in current compilation
+    87 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ParallelBellmanFord.vcxproj -> D:\Faks\Master\Semestar2\ParalelniAlgoritmi\ParallelBellmanFord\x64\Release\ParallelBellmanFord.exe
